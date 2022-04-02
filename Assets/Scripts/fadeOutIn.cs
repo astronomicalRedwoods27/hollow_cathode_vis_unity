@@ -17,7 +17,7 @@ public class fadeOutIn : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            animator.SetTrigger("fadeOut");
+            animator.SetTrigger("fadeOutIn");
         }
     }
 }
