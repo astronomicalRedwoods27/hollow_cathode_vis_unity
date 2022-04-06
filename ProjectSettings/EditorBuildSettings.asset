@@ -21,6 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/sceneFive.unity
     guid: aaebc7e7d418f4042a4c5c581024d05f
   - enabled: 1
-    path: Assets/Animation_JB/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Animation_JB/Scenes/Scene6.unity
+    guid: 7a1b87811e3644b7681d01330accdc10
   m_configObjects: {}
