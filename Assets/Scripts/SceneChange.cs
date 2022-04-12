@@ -34,4 +34,20 @@ public class SceneChange : MonoBehaviour
             }
         }
     }
+
+    public void ClickForward()
+    {
+        if (scene.buildIndex < 5)
+        {
+            SceneManager.LoadScene(scene.buildIndex + 1);
+        }
+    }
+
+    public void ClickBack()
+    {
+        if (scene.buildIndex > 0)
+        {
+            SceneManager.LoadScene(scene.buildIndex - 1);
+        }
+    }
 }
