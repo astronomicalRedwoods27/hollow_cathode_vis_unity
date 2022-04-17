@@ -154,7 +154,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: HeatTheCoilsText
+    path: Slide3Textbox1
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -182,7 +182,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: HeatingPlatesEmitElectronsText
+    path: Slide3Textbox2
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -210,7 +210,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: ElectronsEmittedWaitingForGas
+    path: Slide3Textbox3
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -250,21 +250,21 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3256319687
+      path: 3963708328
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 4222879061
+      path: 1967665682
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3260438394
+      path: 38732420
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
@@ -429,7 +429,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: HeatTheCoilsText
+    path: Slide3Textbox1
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -457,7 +457,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: HeatingPlatesEmitElectronsText
+    path: Slide3Textbox2
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -485,7 +485,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: ElectronsEmittedWaitingForGas
+    path: Slide3Textbox3
     classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves: []
