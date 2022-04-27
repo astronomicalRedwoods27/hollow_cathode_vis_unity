@@ -12,7 +12,7 @@ The Unity WebGL Build  is comprised as follows:
 To update the text of the text boxes, complete the following tasks:
 1. Create the text using the presentation software of your choice, using #c57e0d as the background color, back as the text, and include a small gray border. Type in the desired text, resize it to fit, and use your machine's screen capture tool to create an image of that text box. 
 2. Once the sprites are created, upload the image file to the Unity project under the Assets/Sprites/Textboxes. 
-3. In the inspector for the new image, change its type to Sprite2D & UI 
+3. In the inspector for the new image, change the Texture Type to Sprite (2D and UI).
 4. Then, navigate to the desired scene, find the textbox object, and replace the current Textbox sprite with your updated sprite.
 5. Run the game in Unity to make sure the text is updated, then build the project again.
 
